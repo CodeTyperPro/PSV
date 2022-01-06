@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#07B9E3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorWhite">#FFFF</color>
+    <color name="rippleColor_1">#3ccb8d</color>
+    <color name="rippleColor_2">#d66363</color>
+    <color name="titleColor_1">#458AE2</color>
+    <color name="startColor">#9db8e6</color>
+    <color name="endColor">#297be4</color>
+
+    <color name="card">#6D9FE5</color>
+    <color name="cardRecycler">#7AA7E5</color>
+    <color name="itemColor">#D3E2DC</color>
+
+    <color name="textLogoColor">#338F7C</color>
+    <color name="SplashColor">#FFFFFF</color>
+</resources>
